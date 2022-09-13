@@ -1,1 +1,1 @@
-solution for the life expectency assignment classifiaction
+Life expectenct DB solution Classification type
